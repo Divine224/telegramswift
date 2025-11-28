@@ -42,7 +42,7 @@ See [this repository’s contributors graph](https://github.com/overtake/Telegra
 You can report bug or suggestions feature for Telegram for macOS on [Telegram’s Bugs & Suggestions platform](https://bugs.telegram.org). Read [the platform tip](https://bugs.telegram.org/c/746) before creating first card.
 
 ### Translations
-You can help translate Telegram for macOS on [Telegram’s translations platform](https://translations.telegram.org). Pick your language, then look for the macOS translation set.
+    You can help translate Telegram for macOS on [Telegram’s translations platform](https://translations.telegram.org). Pick your language, then look for the macOS translation set.
 
 <!--### Third-party libraries-->
 <!--See [LIBRARIES](LIBRARIES.md).-->
